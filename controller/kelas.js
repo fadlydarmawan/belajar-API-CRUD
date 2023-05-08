@@ -95,3 +95,5 @@ function deletekelas(req, res) {
   }
 
 module.exports = {createdKelas,deletekelas,getKelas,detailKelas}
+
+/// tesss
